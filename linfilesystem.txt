@@ -1,0 +1,13 @@
+/bin - Essential Command Binaries
+/boot - Static files of the boot loader
+/dev - Device Files
+/etc - Host specific system configuration
+/lib - for libraries and kernel machines
+/media - Mount point for removable media
+/mnt - Mount point for mounting temporarily
+/opt - Add-on application software packages
+/sbin - Essential system binaries
+/srv - Data for services provided by this system
+/tmp - Temporary files
+
+
